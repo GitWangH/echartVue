@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+  <title>嘉和美康系统监控大屏</title>
+</head>
+
+<style>
+  html, body {
+    width:100%;
+    height:100%;
+    min-height:635px;
+    font-family:"microsoft yahei", arial, sans-serif;
+
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100% 100%;
+    overflow-x:hidden;
+    overflow-y:auto;
+  }
+  body.bg06 {background-image:url("/static/assets/img/bg06.png");background-repeat: repeat-y; }
+  .header {
+    margin:0 auto;
+    width:100%;
+    height:55px;
+    max-width:1920px;
+    background:url("/static/assets/img/header-left.png") left center no-repeat, url("/static/assets/img/header-right.png") right center no-repeat;
+    background-size:43% 100%, 43% 100%;
+    overflow:hidden;
+  }
+  .header h3 {
+    margin:0;
+    padding:0;
+    line-height:60px;
+    text-align:center;
+    font-size:24px;
+    color:#5dc2fe;
+  }
+  @media (max-width: 1199px) {
+    .header {
+      background:url("/static/assets/img/header-left.png") left bottom no-repeat, url("/static/assets/img/header-right.png") right bottom no-repeat;
+      background-size:100%, 100%;
+    }
+    .header h3 {line-height:48px;}
+  }
+  body::-webkit-scrollbar {
+    display: none;
+  }
+</style>
+
+<body class="bg06">
+<!--<header class="header">-->
+  <!--<h3>嘉和美康系统监控大屏</h3>-->
+<!--</header>-->
+
+<div id="app"></div>
+</body>
+</html>

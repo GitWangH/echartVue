@@ -1,0 +1,112 @@
+[
+  {
+    "visitCount": "3",
+    "registrationCount": "88",
+    "createTime": "2019-02-20 17:04:56",
+    "medicineCount": "20",
+    "name": "眼科",
+    "id": 1,
+    "totalCount": "126",
+    "paymentCount": "15"
+  },
+  {
+    "visitCount": "1",
+    "registrationCount": "5",
+    "createTime": "2019-02-20 17:04:44",
+    "medicineCount": "77",
+    "name": "心理咨询室",
+    "id": 11,
+    "totalCount": "86",
+    "paymentCount": "3"
+  },
+  {
+    "visitCount": "5",
+    "registrationCount": "55",
+    "createTime": "2019-02-20 17:03:45",
+    "medicineCount": "3",
+    "name": "外科",
+    "id": 4,
+    "totalCount": "69",
+    "paymentCount": "6"
+  },
+  {
+    "visitCount": "9",
+    "registrationCount": "33",
+    "createTime": "2019-02-20 17:04:30",
+    "medicineCount": "6",
+    "name": "皮肤科",
+    "id": 8,
+    "totalCount": "52",
+    "paymentCount": "4"
+  },
+  {
+    "visitCount": "7",
+    "registrationCount": "32",
+    "createTime": "2019-02-20 17:03:58",
+    "medicineCount": "4",
+    "name": "儿科",
+    "id": 6,
+    "totalCount": "49",
+    "paymentCount": "6"
+  },
+  {
+    "visitCount": "8",
+    "registrationCount": "22",
+    "createTime": "2019-02-20 17:04:13",
+    "medicineCount": "2",
+    "name": "耳鼻喉科",
+    "id": 7,
+    "totalCount": "41",
+    "paymentCount": "9"
+  },
+  {
+    "visitCount": "4",
+    "registrationCount": "23",
+    "createTime": "2019-02-20 17:03:24",
+    "medicineCount": "1",
+    "name": "内科",
+    "id": 3,
+    "totalCount": "37",
+    "paymentCount": "9"
+  },
+  {
+    "visitCount": "4",
+    "registrationCount": "4",
+    "createTime": "2019-02-20 17:04:40",
+    "medicineCount": "22",
+    "name": "针灸推拿科",
+    "id": 10,
+    "totalCount": "35",
+    "paymentCount": "5"
+  },
+  {
+    "visitCount": "2",
+    "registrationCount": "20",
+    "createTime": "2019-02-20 17:03:17",
+    "medicineCount": "2",
+    "name": "妇科",
+    "id": 2,
+    "totalCount": "34",
+    "paymentCount": "10"
+  },
+  {
+    "visitCount": "6",
+    "registrationCount": "12",
+    "createTime": "2019-02-20 17:03:50",
+    "medicineCount": "3",
+    "name": "口腔科",
+    "id": 5,
+    "totalCount": "30",
+    "paymentCount": "9"
+  },
+  {
+    "visitCount": "2",
+    "registrationCount": "2",
+    "createTime": "2019-02-20 17:04:34",
+    "medicineCount": "7",
+    "name": "中医科",
+    "id": 9,
+    "totalCount": "15",
+    "paymentCount": "4"
+  }
+]

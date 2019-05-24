@@ -1,0 +1,62 @@
+[
+	{
+		"order": 1,
+		"stock_code": "601398",
+		"serviceName": "检验结果",
+		"msgCount": 14451.21
+	},
+	{
+		"order": 2,
+		"stock_code": "601857",
+		"serviceName": "门诊费用",
+		"msgCount": 13148.07
+	},
+	{
+		"order": 3,
+		"stock_code": "601288",
+		"serviceName": "住院计费",
+		"msgCount": 11620.49
+	},
+	{
+		"order": 4,
+		"stock_code": "601988",
+		"serviceName": "门诊医嘱",
+		"msgCount": 7608.64
+	},
+	{
+		"order": 5,
+		"stock_code": "601318",
+		"serviceName": "病历数据元",
+		"msgCount": 7004.4
+	},
+	{
+		"order": 6,
+		"stock_code": "600519",
+		"serviceName": "住院医嘱",
+		"msgCount": 6934.21
+	},
+	{
+		"order": 7,
+		"stock_code": "600028",
+		"serviceName": "门诊结算",
+		"msgCount": 5905.48
+	},
+	{
+		"order": 8,
+		"stock_code": "600036",
+		"serviceName": "评估明细",
+		"msgCount": 5891.63
+	},
+	{
+		"order": 9,
+		"stock_code": "601628",
+		"serviceName": "医技申请",
+		"msgCount": 4583.26
+	},
+	{
+		"order": 10,
+		"stock_code": "601088",
+		"serviceName": "护理文书",
+		"msgCount": 3298.21
+	}
+]
